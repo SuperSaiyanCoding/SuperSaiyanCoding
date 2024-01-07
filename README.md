@@ -16,10 +16,10 @@
 <dl>
   <dt><h3>Javascript</h3></dt>
   <dd><strong>Node.js</strong>     |     <strong>Express.js</strong></dd>
-  <dd>Phaser.js     |     Three.js</dd>
-  <dd>Kaboom.js     |     p5.js</dd>
+  <dd><strong>Phaser.js</strong>     |     <strong>Three.js</strong></dd>
+  <dd><strong>Kaboom.js</strong>     |     <strong>p5.js</strong></dd>
   <dt><h3>Python</h3></dt>
-  <dd>Pygame     |     Tkinter</dd>
+  <dd><strong>Pygame</strong>     |     <strong>Tkinter</strong></dd>
   <dt><h3>Css</h3></dt>
   <dd>BootStrap     |     Flexbox</dd>
   <dd>Grid</dd>
