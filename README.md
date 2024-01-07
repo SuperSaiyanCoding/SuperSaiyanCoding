@@ -18,13 +18,13 @@
   <dd><strong>Node.js</strong>     |     <strong>Express.js</strong></dd>
   <dd>Phaser.js     |     Three.js</dd>
   <dd>Kaboom.js     |     p5.js</dd>
-  <dt>Python</dt>
+  <dt><h3>Python</h3></dt>
   <dd>Pygame     |     Tkinter</dd>
-  <dt>Css</dt>
+  <dt><h3>Css</h3></dt>
   <dd>BootStrap     |     Flexbox</dd>
   <dd>Grid</dd>
-  <dt>EJS</dt>
-  <dt>html</dt>
+  <dt><h3>EJS</h3></dt>
+  <dt><h3>html</h3></dt>
 </dl>
 
 
