@@ -16,7 +16,8 @@
 <dl>
   <dt>Javascript</dt>
   <dd>Node.js     |     Express.js</dd>
-  <dd>Express.js     |     Three.js</dd>
+  <dd>Phaser.js     |     Three.js</dd>
+  <dd>Kaboom.js     |     p5.js</dd>
   <dt>Python</dt>
   <dd>Pygame     |     Tkinter</dd>
   <dt>Css</dt>
@@ -25,6 +26,6 @@
 
 
 
-<p> , , , Kaboom.js, Phaser.js, EJS, Css, BootStrap, Flexbox , Grid & html</p>
+<p> ,, EJS, Css, BootStrap, Flexbox , Grid & html</p>
 
 
