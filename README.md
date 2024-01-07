@@ -29,5 +29,5 @@
 
 
 <p> , , , Kaboom.js, Phaser.js, EJS, Css, BootStrap, Flexbox , Grid & html</p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=supersaiyancoding&show_icons=true&locale=en" alt="supersaiyancoding" /></p>
+
 
