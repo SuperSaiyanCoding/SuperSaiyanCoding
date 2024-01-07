@@ -19,7 +19,7 @@
   <dt><h3>Python</h3></dt>
   <dd><strong>Pygame</strong>     |     <strong>Tkinter</strong></dd>
   <dt><h3>Css</h3></dt>
-  <dd>BootStrap     |     Flexbox     |     Grid</dd>
+  <dd><strong>BootStrap</strong>     |     <strong>Flexbox</strong>     |     <strong>Grid</strong></dd>
   <dt><h3>EJS</h3></dt>
   <dt><h3>html</h3></dt>
 </dl>
