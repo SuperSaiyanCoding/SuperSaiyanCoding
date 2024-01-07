@@ -15,15 +15,14 @@
 
 <dl>
   <dt>Javascript</dt>
-  <dd>Node.js</dd>
+  <dd>Node.js     Express.js</dd>
   <dd>Express.js</dd>
   <dd>Three.js</dd>
   <dt>Python</dt>
   <dd>Pygame</dd>
   <dd>Tkinter</dd>
-
-  <dt>Sleeping</dt>
-  <dd>My all time favorite.</dd>
+  <dt>Css</dt>
+  <dd>BootStrap</dd>
 </dl>
 
 
