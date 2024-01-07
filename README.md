@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=supersaiyancoding&theme=gruvbox" alt="supersaiyancoding" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=supersaiyancoding" alt="supersaiyancoding" /></a> </p>
+
 
 - 👨‍💻 All of my projects are available at **[https://github.com/SuperSaiyanCoding/My-projects](https://github.com/SuperSaiyanCoding/My-projects)**
 
