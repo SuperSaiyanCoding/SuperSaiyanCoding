@@ -15,7 +15,7 @@
 
 <dl>
   <dt>Javascript</dt>
-  <dd>Node.js     |     Express.js</dd>
+  <dd><strong>Node.js</strong>     |     <strong>Express.js</strong></dd>
   <dd>Phaser.js     |     Three.js</dd>
   <dd>Kaboom.js     |     p5.js</dd>
   <dt>Python</dt>
