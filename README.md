@@ -12,6 +12,24 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
+
+<ul>
+<li>Bears
+	<ol>
+	<li>polar
+	<li>grizzly
+	<li>teddy
+	</ol>
+<li>Birds
+	<ol>
+	<li>sparrows
+	<li>blue jays
+	</ol>
+<li>Bees
+</ul>
+
+
+
 <p>Javascript, Node.js, Express.js, Three.js, Jquery, Kaboom.js, Phaser.js, EJS, Python, Pygame, Tkinter, Css, BootStrap, Flexbox , Grid & html</p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=supersaiyancoding&show_icons=true&locale=en" alt="supersaiyancoding" /></p>
 
