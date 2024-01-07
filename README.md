@@ -15,13 +15,11 @@
 
 <dl>
   <dt><h3>Javascript</h3></dt>
-  <dd><strong>Node.js</strong>     |     <strong>Express.js</strong>     |     <strong>Phaser.js</strong>     |     <strong>Three.js</strong></dd>
-  <dd><strong>Kaboom.js</strong>     |     <strong>p5.js</strong></dd>
+  <dd><strong>Node.js</strong>     |     <strong>Express.js</strong>     |     <strong>Phaser.js</strong>     |     <strong>Three.js</strong>     |     <strong>Kaboom.js</strong>     |     <strong>p5.js</strong></dd>
   <dt><h3>Python</h3></dt>
   <dd><strong>Pygame</strong>     |     <strong>Tkinter</strong></dd>
   <dt><h3>Css</h3></dt>
-  <dd>BootStrap     |     Flexbox</dd>
-  <dd>Grid</dd>
+  <dd>BootStrap     |     Flexbox     |     Grid</dd>
   <dt><h3>EJS</h3></dt>
   <dt><h3>html</h3></dt>
 </dl>
