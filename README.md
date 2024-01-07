@@ -14,7 +14,9 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <dl>
-  <dt>Coding</dt>
+  <dt>Javascript</dt>
+  <dd>An activity to keep you happy, even in sleep.</dd>
+  <dd>An activity to keep you happy, even in sleep.</dd>
   <dd>An activity to keep you happy, even in sleep.</dd>
   <dt>Gossiping</dt>
   <dd>Can't live without it.</dd>
@@ -24,6 +26,6 @@
 
 
 
-<p>Javascript, Node.js, Express.js, Three.js, Jquery, Kaboom.js, Phaser.js, EJS, Python, Pygame, Tkinter, Css, BootStrap, Flexbox , Grid & html</p>
+<p> Node.js, Express.js, Three.js, Jquery, Kaboom.js, Phaser.js, EJS, Python, Pygame, Tkinter, Css, BootStrap, Flexbox , Grid & html</p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=supersaiyancoding&show_icons=true&locale=en" alt="supersaiyancoding" /></p>
 
