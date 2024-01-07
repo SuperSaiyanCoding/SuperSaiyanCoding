@@ -21,11 +21,14 @@
   <dt>Python</dt>
   <dd>Pygame     |     Tkinter</dd>
   <dt>Css</dt>
-  <dd>BootStrap</dd>
+  <dd>BootStrap     |     Flexbox</dd>
+  <dd>Grid</dd>
+  <dt>EJS</dt>
+  <dt>html</dt>
 </dl>
 
 
 
-<p> ,, EJS, Css, BootStrap, Flexbox , Grid & html</p>
+
 
 
