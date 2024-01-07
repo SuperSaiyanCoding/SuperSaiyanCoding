@@ -15,16 +15,12 @@
 
 <ul>
 <li>Bears
-	<ol>
 	<li>polar
 	<li>grizzly
 	<li>teddy
-	</ol>
 <li>Birds
-	<ol>
 	<li>sparrows
 	<li>blue jays
-	</ol>
 <li>Bees
 </ul>
 
