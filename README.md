@@ -15,17 +15,19 @@
 
 <dl>
   <dt>Javascript</dt>
-  <dd>An activity to keep you happy, even in sleep.</dd>
-  <dd>An activity to keep you happy, even in sleep.</dd>
-  <dd>An activity to keep you happy, even in sleep.</dd>
-  <dt>Gossiping</dt>
-  <dd>Can't live without it.</dd>
+  <dd>Node.js</dd>
+  <dd>Express.js</dd>
+  <dd>Three.js</dd>
+  <dt>Python</dt>
+  <dd>Pygame</dd>
+  <dd>Tkinter</dd>
+
   <dt>Sleeping</dt>
   <dd>My all time favorite.</dd>
 </dl>
 
 
 
-<p> Node.js, Express.js, Three.js, Jquery, Kaboom.js, Phaser.js, EJS, Python, Pygame, Tkinter, Css, BootStrap, Flexbox , Grid & html</p>
+<p> , , , Kaboom.js, Phaser.js, EJS, Css, BootStrap, Flexbox , Grid & html</p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=supersaiyancoding&show_icons=true&locale=en" alt="supersaiyancoding" /></p>
 
