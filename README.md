@@ -13,16 +13,14 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<ul>
-<li>Bears
-	<li>polar
-	<li>grizzly
-	<li>teddy
-<li>Birds
-	<li>sparrows
-	<li>blue jays
-<li>Bees
-</ul>
+<dl>
+  <dt>Coding</dt>
+  <dd>An activity to keep you happy, even in sleep.</dd>
+  <dt>Gossiping</dt>
+  <dd>Can't live without it.</dd>
+  <dt>Sleeping</dt>
+  <dd>My all time favorite.</dd>
+</dl>
 
 
 
