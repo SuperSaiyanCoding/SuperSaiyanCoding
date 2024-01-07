@@ -14,7 +14,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <dl>
-  <dt>Javascript</dt>
+  <dt><h3>Javascript</h3></dt>
   <dd><strong>Node.js</strong>     |     <strong>Express.js</strong></dd>
   <dd>Phaser.js     |     Three.js</dd>
   <dd>Kaboom.js     |     p5.js</dd>
