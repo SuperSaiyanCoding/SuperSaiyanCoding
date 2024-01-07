@@ -15,8 +15,7 @@
 
 <dl>
   <dt><h3>Javascript</h3></dt>
-  <dd><strong>Node.js</strong>     |     <strong>Express.js</strong></dd>
-  <dd><strong>Phaser.js</strong>     |     <strong>Three.js</strong></dd>
+  <dd><strong>Node.js</strong>     |     <strong>Express.js</strong>     |     <strong>Phaser.js</strong>     |     <strong>Three.js</strong></dd>
   <dd><strong>Kaboom.js</strong>     |     <strong>p5.js</strong></dd>
   <dt><h3>Python</h3></dt>
   <dd><strong>Pygame</strong>     |     <strong>Tkinter</strong></dd>
