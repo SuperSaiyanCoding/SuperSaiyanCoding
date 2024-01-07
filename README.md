@@ -16,11 +16,9 @@
 <dl>
   <dt>Javascript</dt>
   <dd>Node.js     |     Express.js</dd>
-  <dd>Express.js</dd>
-  <dd>Three.js</dd>
+  <dd>Express.js     |     Three.js</dd>
   <dt>Python</dt>
-  <dd>Pygame</dd>
-  <dd>Tkinter</dd>
+  <dd>Pygame     |     Tkinter</dd>
   <dt>Css</dt>
   <dd>BootStrap</dd>
 </dl>
