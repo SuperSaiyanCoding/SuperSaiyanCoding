@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm A.V.</h1>
 <h3 align="center">14yr programmer & web developer</h3>
 
-https://github-profile-trophy.vercel.app/?username=supersaiyancoding&theme=gruvbox
-
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=supersaiyancoding&theme=gruvbox" alt="supersaiyancoding" /> </p>
 
 
