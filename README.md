@@ -14,7 +14,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,bootstrap,codepen,express)](https://skillicons.dev)
 
 <dl>
   <dt><h3>Javascript</h3></dt>
