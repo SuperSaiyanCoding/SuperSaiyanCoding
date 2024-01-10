@@ -14,6 +14,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 <dl>
   <dt><h3>Javascript</h3></dt>
   <dd><strong>Node.js</strong>     |     <strong>Express.js</strong>     |     <strong>Phaser.js</strong>     |     <strong>Three.js</strong>     |     <strong>Kaboom.js</strong>     |     <strong>p5.js</strong></dd>
