@@ -14,7 +14,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,bootstrap,codepen,express,git,github,jquery,linux,nodejs,p5js,postman,powershell,py,replit,stackoverflow,threejs,ts,visualstudio,vscode,gmail)](https://skillicons.dev) - kaboom.js and pygame
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,bootstrap,codepen,express,git,github,jquery,linux,nodejs,p5js,postman,powershell,py,replit,stackoverflow,threejs,ts,visualstudio,vscode,gmail,kaboom.js,)](https://skillicons.dev) kaboom.js and pygame
 <!--
 <dl>
   <dt><h3>Javascript</h3></dt>
