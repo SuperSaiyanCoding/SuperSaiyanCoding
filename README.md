@@ -18,7 +18,7 @@
 <!-- Html5 -->
 <img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/bceb699f-e861-4119-9748-8f4c80991bfd">
 <!-- Css3 -->
-<img width = "60" height = "60"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/3aa3d7c8-02b3-4805-962f-f82669add59d">
+<img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/3aa3d7c8-02b3-4805-962f-f82669add59d">
 ⬆️ badges above are created by me. To use them in you own readme go over <a href = "https://github.com/SuperSaiyanCoding/Profile-readme-badges">here</a> ⬆️
 
 
