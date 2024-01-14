@@ -19,6 +19,8 @@
 <img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/bceb699f-e861-4119-9748-8f4c80991bfd">
 <!-- Css3 -->
 <img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/3aa3d7c8-02b3-4805-962f-f82669add59d">
+<!-- EJS -->
+<img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/695cfc93-dde2-4a59-83aa-319796a5bcbb">
 ⬆️ badges above are created by me. To use them in you own readme go over <a href = "https://github.com/SuperSaiyanCoding/Profile-readme-badges">here</a> ⬆️
 
 
