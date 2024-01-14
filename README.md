@@ -16,7 +16,7 @@
 <img width = "60" height = "60" src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/271d9505-a7e3-44a4-a4bb-8e3114c1d4f9">
 <img width = "60" height = "60"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/7afef4f8-9af3-4487-bb46-ec0f57f8fdd9">
 
-⬆️ badges above are created by me ⬆️
+⬆️ badges above are created by me. To use them in you own readme go over <a href = "https://github.com/SuperSaiyanCoding/Profile-readme-badges">here</a> ⬆️
 
 
 <!--
