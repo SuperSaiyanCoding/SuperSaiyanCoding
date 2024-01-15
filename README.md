@@ -46,6 +46,8 @@
 <img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/117fd5c9-7451-4102-b2e3-9ba27abd4bc0">
 <!-- Replit -->
 <img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/33d11b8d-ffc6-4d96-a430-3381a483861e">
+<!-- Figma -->
+<img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/e3c3ffb4-8299-411c-89a4-6a1b3a70e2f7">
 ⬆️ badges above are created by me. To use them in you own readme go over <a href = "https://github.com/SuperSaiyanCoding/Profile-readme-badges">here</a> ⬆️
 
 
