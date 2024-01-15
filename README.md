@@ -35,6 +35,8 @@
 <img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/7d1bc272-eed5-4fbe-a232-05741f843abb">
 <!-- Pygame -->
 <img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/9ba7618c-e4f3-483a-9b1f-1bab43f54c7b">
+<!-- Tkinter -->
+<img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/ce6ba520-40a6-41b2-b77e-8bb43daf17db">
 ⬆️ badges above are created by me. To use them in you own readme go over <a href = "https://github.com/SuperSaiyanCoding/Profile-readme-badges">here</a> ⬆️
 
 
