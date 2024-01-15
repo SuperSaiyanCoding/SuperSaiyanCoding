@@ -29,6 +29,8 @@
 <img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/f2f01b5d-f4e6-435e-ab8b-ab799cdf23cc">
 <!-- jQuery -->
 <img width = "70" height = "70" src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/4a660ef5-2b60-44c2-a383-0d23c461f5f7">
+<!-- Kaboom.js -->
+<img width = "70" height = "70" src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/b84b96ca-47a6-4958-90f8-81ffc7b6e06d">
 ⬆️ badges above are created by me. To use them in you own readme go over <a href = "https://github.com/SuperSaiyanCoding/Profile-readme-badges">here</a> ⬆️
 
 
