@@ -42,6 +42,8 @@
 <!-- P5.js -->
 <img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/a2d3cdc9-3d14-4bf7-b4f6-3cb8e6a17bed">
 <h3>Tools:</h3>
+<!-- Github -->
+<img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/117fd5c9-7451-4102-b2e3-9ba27abd4bc0">
 
 ⬆️ badges above are created by me. To use them in you own readme go over <a href = "https://github.com/SuperSaiyanCoding/Profile-readme-badges">here</a> ⬆️
 
