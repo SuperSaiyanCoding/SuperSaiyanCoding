@@ -12,7 +12,7 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages:</h3>
 <img width = "70" height = "70" src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/271d9505-a7e3-44a4-a4bb-8e3114c1d4f9">
 <img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/7afef4f8-9af3-4487-bb46-ec0f57f8fdd9">
 <!-- Html5 -->
@@ -41,6 +41,8 @@
 <img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/5a7b765d-a8d3-4a09-aa0e-5dea2c78faa6">
 <!-- P5.js -->
 <img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/a2d3cdc9-3d14-4bf7-b4f6-3cb8e6a17bed">
+<h3>Tools:</h3>
+
 ⬆️ badges above are created by me. To use them in you own readme go over <a href = "https://github.com/SuperSaiyanCoding/Profile-readme-badges">here</a> ⬆️
 
 
