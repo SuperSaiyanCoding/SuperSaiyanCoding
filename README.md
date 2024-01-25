@@ -2,7 +2,7 @@
 <h3 align="center">14yr programmer & web developer</h3>
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=supersaiyancoding&theme=gruvbox" alt="supersaiyancoding" /> </p>
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=supersaiyancoding-ma&theme=matrix" alt="supersaiyancoding" /> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=supersaiyancoding&theme=matrix" alt="supersaiyancoding" /> </p>
 
 
 
