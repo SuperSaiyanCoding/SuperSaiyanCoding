@@ -51,6 +51,8 @@
 <img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/e3c3ffb4-8299-411c-89a4-6a1b3a70e2f7">
 <!-- VS code (L) -->
 <img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/ed250cf1-0d12-4360-9ea1-434121f939b0">
+<!-- Postman (L) -->
+<img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/SuperSaiyanCoding/assets/112682624/28cad628-d41e-4c7e-8b54-9d085db9631c">
 ⬆️ badges above are created by me. To use them in you own readme go over <a href = "https://github.com/SuperSaiyanCoding/Profile-readme-badges">here</a> ⬆️
 
 
