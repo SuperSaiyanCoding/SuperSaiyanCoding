@@ -70,7 +70,15 @@
     <a href = "https://www.chess.com/member/nzgreatinchess">NzGreatInChess</a>
   </li>
 </ul>
-
+<h3>Replit</h3>
+<ul>
+  <li>
+    <a href = "">@SuperSaiyanCoding</a>
+  </li>
+  <li>
+    <a href = "">@KEWLGLE</a>
+  </li>
+</ul>
 
 <!--
 <dl>
