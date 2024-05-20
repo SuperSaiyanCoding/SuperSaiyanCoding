@@ -64,6 +64,12 @@
     <a href = https://www.instagram.com/chesswithayaanvasudeva/>@chesswithayaanvasudeva</a>
   </li>
 </ul>
+<h3>Chess.com</h3>
+<ul>
+  <li>
+    <a href = "https://www.chess.com/member/nzgreatinchess">NzGreatInChess</a>
+  </li>
+</ul>
 
 
 <!--
