@@ -73,10 +73,10 @@
 <h3>Replit</h3>
 <ul>
   <li>
-    <a href = "">@SuperSaiyanCoding</a>
+    <a href = "https://replit.com/@SuperSaiyanCoding">@SuperSaiyanCoding</a>
   </li>
   <li>
-    <a href = "">@KEWLGLE</a>
+    <a href = "https://replit.com/team/KEWLGLE">@KEWLGLE</a>
   </li>
 </ul>
 
