@@ -54,8 +54,15 @@
 <!-- Postman (L) -->
 <img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/SuperSaiyanCoding/assets/112682624/28cad628-d41e-4c7e-8b54-9d085db9631c">
 ⬆️ badges above are created by me. To use them in you own readme go over <a href = "https://github.com/SuperSaiyanCoding/Profile-readme-badges">here</a> ⬆️
-</body>
-<style>
+<h1>Social</h1>
+<ul>
+  <li>
+    <a>@ayaanvasudeva</a>
+  </li>
+  <li>
+    @chesswithayaanvasudeva
+  </li>
+</ul>
 
 
 <!--
