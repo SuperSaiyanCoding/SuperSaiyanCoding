@@ -1,4 +1,3 @@
-<body>
 <h1 align="center">Hi 👋, I'm A.V.</h1>
 <h3 align="center">14yr programmer & web developer</h3>
 
@@ -57,10 +56,7 @@
 ⬆️ badges above are created by me. To use them in you own readme go over <a href = "https://github.com/SuperSaiyanCoding/Profile-readme-badges">here</a> ⬆️
 </body>
 <style>
-  body{
-background-color: "blue";
-    }
-</style>
+
 
 <!--
 <dl>
