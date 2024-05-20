@@ -58,10 +58,10 @@
 <h3>Instagram</h3>
 <ul>
   <li>
-    <a>@ayaanvasudeva</a>
+    <a href = "https://www.instagram.com/ayaanvasudeva/">@ayaanvasudeva</a>
   </li>
   <li>
-    @chesswithayaanvasudeva
+    <a href = https://www.instagram.com/chesswithayaanvasudeva/>@chesswithayaanvasudeva</a>
   </li>
 </ul>
 
